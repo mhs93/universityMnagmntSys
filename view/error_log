@@ -1,0 +1,6 @@
+[11-May-2017 11:38:03 America/New_York] PHP Notice:  Undefined index: assign in /home/sadedvqj/public_html/src/Course/Course.php on line 134
+[11-May-2017 13:30:39 America/New_York] PHP Fatal error:  Call to a member function getCoursesBy_deptId() on array in /home/sadedvqj/public_html/view/editSchedule.php on line 164
+[12-May-2017 15:09:51 America/New_York] PHP Notice:  Undefined index: deptfor_crs in /home/sadedvqj/tasnif.me/view/loader.php on line 116
+[12-May-2017 15:11:48 America/New_York] PHP Notice:  Undefined index: deptfor_crs in /home/sadedvqj/tasnif.me/view/loader.php on line 116
+[12-May-2017 15:11:51 America/New_York] PHP Notice:  Undefined index: deptfor_crs in /home/sadedvqj/tasnif.me/view/loader.php on line 116
+[12-May-2017 15:12:23 America/New_York] PHP Notice:  Undefined index: deptfor_crs in /home/sadedvqj/tasnif.me/view/loader.php on line 116
